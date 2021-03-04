@@ -33,16 +33,16 @@ Deployment and setup
 -----------------------
 
 
-1) Take out the CRL modem and antenna from UAV transport case.
-2) Screw antenna to CRL modem.
+1) Take out the Radio modem and antenna from UAV transport case.
+2) Screw antenna to Radio modem.
 3) Set up the pole and secure the modem on it by screws at the top section. 
 
 The stand should be installed either in UAV transport case slot or firmly inserted into the soil by its lower end.
 
 4) Turn laptop on.
 5) Install MdmDisp and Geoscan Planner software from USB flash drive. 
-6) Connect CRL modem to laptop.
+6) Connect Radio modem to laptop.
 
-**CRL modem should be placed at top altitude possible with antenna situated vertically. Do not set the modem inside the building or car.**
+**Radio modem should be placed at top altitude possible with antenna situated vertically. Do not set the modem inside the building or car.**
 
 .. warning:: Do not connect the mode to GCS without the antenna! Otherwise the modem may stop functioning or be permanently damaged.

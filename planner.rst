@@ -123,7 +123,7 @@ When constructing a route, a rising and a lowering of UAV is displayed as the cy
 
    Climb and descent cylinders
 
-Adding and removing polygon vertices.
+Adding and removing polygon vertices
 __________________________________________
 
 You can add vertices to the completed polygon.
@@ -157,7 +157,7 @@ To remove vertex:
 
    Remove vertex
 
-Changing the direction of the route lines.
+Changing the direction of the route lines
 _____________________________________________
 
 The necessary of optimizing polygon "by the direction" occurs quite often, for example, if the force and direction of the wind are unfavorable at the site of work (strong wind along the lines of the overflight above the polygon).
@@ -168,7 +168,7 @@ To change the type of optimization, right-click on the polygon and select the op
 
 .. figure:: _static/_images/planner/planner11.png
    :align: center
-   :width: 500
+   :width: 400
 
    Optimization by direction
 

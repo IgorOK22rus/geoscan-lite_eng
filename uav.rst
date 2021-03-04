@@ -79,7 +79,7 @@ Assembly
 
 .. figure:: _static/_images/UAV_assembly/asmbl7.png
    :align: center
-   :width: 400
+   :width: 280
    :alt: Closing of the top cover
 
    Closing of the fuselage's top cover
@@ -143,7 +143,7 @@ Components of the parachute system:
 
 .. figure:: _static/_images/parashute/para5.png
    :align: center
-   :width: 250
+   :width: 120
 
    Folding the dome pockets out
 
@@ -161,7 +161,7 @@ Make sure that in the process of laying the parachute rigging lines are not tang
 
 .. figure:: _static/_images/parashute/para8.png
    :align: center
-   :width: 400
+   :width: 300
 
    Put rigging lines in the pocket
 
@@ -169,13 +169,13 @@ Make sure that in the process of laying the parachute rigging lines are not tang
 
 .. figure:: _static/_images/parashute/para7.png
    :align: center
-   :width: 400
+   :width: 200
 
    Pulling the rigging lines through the pocket
 
 .. figure:: _static/_images/parashute/para9.png
    :align: center
-   :width: 400
+   :width: 300
 
    Result
 
@@ -199,7 +199,7 @@ Installing the parachute in the UAV
 
 .. figure:: _static/_images/parashute/param1.png
    :align: center
-   :width: 400
+   :width: 365
 
    The short static line end in a carabiner
 
@@ -207,7 +207,7 @@ Installing the parachute in the UAV
 
 .. figure:: _static/_images/parashute/param2.png
    :align: center
-   :width: 400
+   :width: 300
 
    Turning end of the short fall into ring of deattaching system
 
@@ -215,7 +215,7 @@ Installing the parachute in the UAV
 
 .. figure:: _static/_images/parashute/param3.png
    :align: center
-   :width: 400
+   :width: 280
 
    Locking the loop in the lock
 
@@ -226,7 +226,7 @@ Installing the parachute in the UAV
 
 .. figure:: _static/_images/parashute/param4.png
    :align: center
-   :width: 400
+   :width: 250
 
    Packing the parachute system's ropes
 
@@ -234,7 +234,7 @@ Installing the parachute in the UAV
 
 .. figure:: _static/_images/parashute/param5.png
    :align: center
-   :width: 400
+   :width: 350
 
    Parachute laying
 

@@ -121,7 +121,7 @@ latex_logo  = "_static/_images/latex_logo.png"
 latex_elements = {
     # The paper size ('letterpaper' or 'a4paper').
     #
-    'papersize': 'openany',
+    'papersize': 'a4paper',
 
     # The font size ('10pt', '11pt' or '12pt').
     #
@@ -130,6 +130,8 @@ latex_elements = {
     # Additional stuff for the LaTeX preamble.
     #
     'preamble': '',
+
+    'extraclassoptions': 'openany',
 
     # Latex figure (float) alignment
     #
