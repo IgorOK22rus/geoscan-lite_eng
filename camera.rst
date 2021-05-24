@@ -25,7 +25,7 @@ Sony DSC-RX1RM2 Settings
 
 Before changing any settings, carfully read `Camera Operating Instructions <https://www.sony.com/electronics/support/res/manuals/4579/45798651M.pdf>`_ to get information about functions and control elements.
 
-Basic camera control elements showed on the picture.
+Basic camera control elements showed on the picture:
 
 .. figure:: _static/_images/RX1RM2_control_2in1.png
    :width: 1200
@@ -34,7 +34,7 @@ Basic camera control elements showed on the picture.
 Camera presets
 ___________________
 
-By default, Geoscan UAVs equipped with Sony DSC-RX1RM2 cameras are shipped with 2 presets.
+Geoscan UAVs equipped Sony DSC-RX1RM2 cameras with 2 presets.
 
 Use **Mode dial** near ``on\off`` switcher to select preset for your needs.
 
@@ -170,6 +170,14 @@ Sony DSC-RX1 Settings
 ------------------------------------------
 
 Before changing any settings, carfully read `Camera Operating Instructions <https://www.sony.com/electronics/support/res/manuals/4469/44695771M.pdf>`_ to get information about functions and control elements.
+
+Basic camera control elements showed on the picture:
+
+.. figure:: _static/_images/RX1_control_2in1.png
+   :width: 1200
+   :align: center
+
+
 
 * Set mode to **S** (Exposure priority) by mode dial.
 * Set exposure **1/800**  by control dial.
