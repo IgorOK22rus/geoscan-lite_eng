@@ -67,7 +67,7 @@ Set **Mode dial** in **3** position and press button in the middle of **Control 
 Restoring presets
 ___________________
 
-Settings of 1 and 2 presets can be restored, if you change it. 
+Settings of 1 and 2 presets can be restored, if you change them. 
 
 For preset 1 restoring:
 
