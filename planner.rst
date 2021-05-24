@@ -240,7 +240,7 @@ Linear aerial photography is performed in order to survey linear extended object
 
 Hop
 ----------------
-Fight by pre-set route with a set altitude. It is mainly used for passing around point objects (i.e. high objects) and topographic inequality.
+Fight by pre-seted route with a seted altitude. It is mainly used for passing around point objects (i.e. high objects) and topographic inequality.
 
 1) Click on the icon **Create hop** on the toolbar.
 
