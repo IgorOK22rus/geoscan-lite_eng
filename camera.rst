@@ -177,16 +177,17 @@ Basic camera control elements are shown on the picture:
    :width: 1200
    :align: center
 
+* Set shutter speed **1/1000** by **Control dial**.
+* Set **Exposure compensation dial** in **0** (zero) position.
+* Set **Macro switching ring** in **0,3m-∞** position.
+* Set **Focus mode dial** in **MF** position.
+
+* For normal daylight conditions switch **Mode dial** in **M** (Manual exposure control) position and **Aperture ring** in **4,5** (first mark after 4) position.
+* For cloudy weather switch **Mode dial** in **S** (Shutter priority) position. The aperture value is not taken into account in this mode.
 
 
-* Set mode to **S** (Exposure priority) by mode dial.
-* Set exposure **1/800**  by control dial.
-* Set exposure to **0** (Zero) by exposure compensation dial.
-* Set macro to **0,3m-∞** by macro switching ring.
-* Set focus mode dial to **MF**.
 
-To set camera parameters, push **MENU** button, then select parameters according to the following instructions.
-
+To set camera soft parameters, push **MENU** button, then select parameters according to the following instructions.
 
 
 * In user settings menu |icon_set| (tab 1) turn off **Automatic preview**.
@@ -242,7 +243,7 @@ Other settings should not be changed as they are used in default mode.
 
 Follow these steps to set default settings:
 
-1) Select **MENU** → **Settings menu** → **INITIALISATION** → **Reset**
+1) Select **MENU** →|icon_key| **Settings menu** → **INITIALISATION** → **Reset**
 
 .. attention::  Do not remove the battery during a reset process!
 
