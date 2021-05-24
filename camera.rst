@@ -127,7 +127,7 @@ ______________________
 
 * In |icon_bag| settings menu (tab 5) select **Format**.
 
-.. figure:: _static/_images/format_en.png
+.. figure:: _static/_images/RX1RM2_format.png
    :width: 400
    :align: center
 
@@ -145,7 +145,7 @@ Reset of the camera will delete presets' shooting settings (Presets 1 and 2)!
 
 1) In |icon_bag| settings menu (tab 6) select **Setting Reset**
 
-.. figure:: _static/_images/reset_en.png
+.. figure:: _static/_images/RX1RM2_factory.png
    :width: 400
    :align: center
 
