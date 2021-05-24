@@ -23,7 +23,7 @@ Camera type depends on delivery kit.
 Sony DSC-RX1RM2 Settings
 ------------------------------------------
 
-Before changing any settings, carfully read `Camera Operating Instructions <https://www.sony.com/electronics/support/res/manuals/4579/45798651M.pdf>`_ to get information about functions and control elements.
+Carfully read `Camera Operating Instructions <https://www.sony.com/electronics/support/res/manuals/4579/45798651M.pdf>`_ to get information about functions and control elements before change settings.
 
 Basic camera control elements are shown on the picture:
 
@@ -44,6 +44,7 @@ Use these settings for this mode:
 
 * Set **Mode dial** in **1** position.
 * Set **Focus mode dial** in **MF** position.
+* Set **Exposure compensation dial** in **0** position.
 * Set **Macro switching ring** in **0,3m-∞** position.
 * Set **Aperture ring** in **4,5** (first mark after 4)
 
@@ -92,7 +93,7 @@ Set **Mode dial** in **2** position and press button in the middle of **Control 
 
 If you change or reset settings you also need to switch off automatic photo review and shooting by MOVIE button, set maximum time before powersaving start and reset for file number. Change these settings:
 
-* Switch off **Auto Review** in |icon_set| user settings (tab 2) and **MOVIE Button** — **Video Mode Only**.
+* Switch off **Auto Review** in |icon_set| user settings (tab 2) and **MOVIE Button** — **Video Mode Only** (tab 6).
 
 .. figure:: _static/_images/RX1RM2_menu2.png
    :width: 400
@@ -169,7 +170,7 @@ Reset of the camera will delete presets' shooting settings (Presets 1 and 2)!
 Sony DSC-RX1 Settings
 ------------------------------------------
 
-Before changing any settings, carfully read `Camera Operating Instructions <https://www.sony.com/electronics/support/res/manuals/4469/44695771M.pdf>`_ to get information about functions and control elements.
+Carfully read `Camera Operating Instructions <https://www.sony.com/electronics/support/res/manuals/4469/44695771M.pdf>`_ to get information about functions and control elements before change settings.
 
 Basic camera control elements are shown on the picture:
 
