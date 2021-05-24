@@ -224,7 +224,7 @@ To set camera soft parameters, push **MENU** button, then select parameters acco
    Power saving time 
 
 
-* In memory card menu |icon_sd| select**File №** - **Clear**.
+* In memory card menu |icon_sd| select **File №** - **Clear**.
 
 .. figure:: _static/_images/menu3.png
    :width: 400
