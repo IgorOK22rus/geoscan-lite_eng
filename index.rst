@@ -57,7 +57,7 @@ Specifications
 
 .. csv-table:: 
 
-   "UAV type", "flying wing"
+   "UAV type", "fixed wing"
    "Flight speed", "72 — 108 km/h"
    "Max takeoff weight", "3.1 kg"
    "Max payload weight", "0.8 kg"
